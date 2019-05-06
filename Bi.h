@@ -1,7 +1,7 @@
 ﻿#ifndef __BI_H__
 #define __BI_H__
 
-#include "IniReader.h"
+//#include "IniReader.h"
 
 #pragma pack(push,1)
 
